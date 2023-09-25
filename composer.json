@@ -10,7 +10,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "nyholm/psr7": "^1.8",
-        "opendaje/ultramsg-client": "^0.1.2",
+        "opendaje/ultramsg-client": "0.1.*",
         "symfony/console": "6.0.*",
         "symfony/dotenv": "6.0.*",
         "symfony/flex": "^2",
